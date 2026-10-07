@@ -1,5 +1,11 @@
 {
-  games: {
-    
-  }
+	"games": {
+		"test_game": {
+			"display_name": "Test",
+			"version": "1.0.1",
+			"version_number": 2,
+			"image": "https://example.com/test.png",
+			"link": "https://example.com/test.zip"
+		}
+	}
 }
