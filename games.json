@@ -1,21 +1,21 @@
 {
 	"games": {
 		"mc_dungeons_2": {
-			"display_name": "Minecraft Dungeons II (un official)",
+			"display_name": "Minecraft Dungeons II",
 			"version": "1.1.1.0",
 			"version_number": 1,
 			"image": "https://example.com/test.png",
 			"parts": [
 				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/mc_dungeons_2/Minecraft.Dungeons.II.zip.001",
-				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/test/test.zip.002",
-				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/test/test.zip.003",
-				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/test/test.zip.004",
-				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/test/test.zip.005",
-				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/test/test.zip.006",
-				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/test/test.zip.007",
-				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/test/test.zip.008",
-				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/test/test.zip.009",
-				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/test/test.zip.010"
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/mc_dungeons_2/Minecraft.Dungeons.II.zip.002",
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/mc_dungeons_2/Minecraft.Dungeons.II.zip.003",
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/mc_dungeons_2/Minecraft.Dungeons.II.zip.004",
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/mc_dungeons_2/Minecraft.Dungeons.II.zip.005",
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/mc_dungeons_2/Minecraft.Dungeons.II.zip.006",
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/mc_dungeons_2/Minecraft.Dungeons.II.zip.007",
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/mc_dungeons_2/Minecraft.Dungeons.II.zip.008",
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/mc_dungeons_2/Minecraft.Dungeons.II.zip.009",
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/mc_dungeons_2/Minecraft.Dungeons.II.zip.010"
 			]
 		}
 	}
