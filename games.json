@@ -1,11 +1,15 @@
 {
 	"games": {
 		"test_game": {
-			"display_name": "Test",
+			"display_name": "Test Game",
 			"version": "1.0.1",
 			"version_number": 2,
 			"image": "https://example.com/test.png",
-			"link": "https://example.com/test.zip"
+			"parts": [
+				"https://example.com/test_game.zip.001",
+				"https://example.com/test_game.zip.002",
+				"https://example.com/test_game.zip.003"
+			]
 		}
 	}
 }
