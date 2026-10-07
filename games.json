@@ -6,9 +6,9 @@
 			"version_number": 2,
 			"image": "https://example.com/test.png",
 			"parts": [
-				"https://example.com/test_game.zip.001",
-				"https://example.com/test_game.zip.002",
-				"https://example.com/test_game.zip.003"
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/test/test.zip.001",
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/test/test.zip.002",
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/test/test.zip.003"
 			]
 		}
 	}
