@@ -17,6 +17,13 @@
 				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/mc_dungeons_2/Minecraft.Dungeons.II.zip.009",
 				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/mc_dungeons_2/Minecraft.Dungeons.II.zip.010"
 			]
+		},
+		"miside": {
+			"display_name": "MiSide",
+			"version": "test",
+			"version_number": 1,
+			"image": "https://example.com/test.png",
+			"parts": []
 		}
 	}
 }
