@@ -20,7 +20,7 @@
 		},
 		"miside": {
 			"display_name": "MiSide",
-			"version": "test",
+			"version": "0.93L",
 			"version_number": 1,
 			"image": "https://example.com/test.png",
 			"parts": []
