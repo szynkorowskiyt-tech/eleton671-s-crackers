@@ -23,7 +23,11 @@
 			"version": "0.93L",
 			"version_number": 1,
 			"image": "https://example.com/test.png",
-			"parts": []
+			"parts": [
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/miside/MiSide.zip.001",
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/miside/MiSide.zip.002",
+				"https://github.com/szynkorowskiyt-tech/eleton671-s-crackers/releases/download/miside/MiSide.zip.003"
+			]
 		}
 	}
 }
